@@ -1,3 +1,3 @@
-module github.com/sdn0303/extended_map
+module github.com/sdn0303/ordered-map-go
 
-go 1.20
+go 1.24

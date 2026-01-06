@@ -4,3 +4,4 @@
 # Directories
 .idea/
 .vscode/
+.gocache/
